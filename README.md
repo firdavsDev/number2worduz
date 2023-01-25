@@ -1,6 +1,6 @@
-============================================
-Number to uzbek words!
-============================================
+
+### Number to uzbek words!
+
 
     from number2words_uz import Number2WordUz
 
